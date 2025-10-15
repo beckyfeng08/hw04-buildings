@@ -15,4 +15,15 @@ References used heavily for this piece:
 ![t_120-byodoin-temple-top-01](https://github.com/user-attachments/assets/b763c3a2-b052-43a6-88a2-f43c5ceb0217)
 - toy model from https://www.japan-wooden-model-kits-zootoyz.shop/contents/en-us/p25104_Byodoin-Hououdo-Wooden-Japanese-Temple-Model-Kits-by-Woody-JOE.html
 ---
-### Main 
+### Main Architectural Features + Assets
+- Red rectangular gates
+- Frilly rooftop that fans out
+- Cube-like shape in sub-buildings
+- large window panes
+- white paper screen above glass windows
+- Golden ribs under roof for support
+- Middle building structures have a different window style (red panel then window panel)
+- Bottom buildings are mostly red wall with small windows in the top
+- Red pillars
+
+- For this assignment, we will be ignoring the trees and rocks for now.
