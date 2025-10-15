@@ -19,7 +19,7 @@ References used heavily for this piece:
 - Red rectangular gates
 - Frilly rooftop that fans out
 - Cube-like shape in sub-buildings
-- large window panes
+- large rectangular window panes divided up into squares
 - white paper screen above glass windows
 - Golden ribs under roof for support
 - Middle building structures have a different window style (red panel then window panel)
